@@ -1,0 +1,38 @@
+@import 'partials/_params.scss';
+@import 'partials/_mixins.scss';
+@import 'partials/_fonts.scss';
+
+.header{
+
+    z-index: 10;
+    color: #fff;
+    display: flex;
+    //flex:1 0 auto;
+    flex-grow: 1;
+
+    &__content{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex: 1 0 auto;
+    }
+
+    &__title{
+        display: flex;
+        align-items: flex-start;
+        text-align: left;
+        font-size: 32px;
+    }
+    &__subtitle{
+        font-size: 16px;
+    }
+    &__scroll{
+        position: absolute;
+        bottom: 5%;
+        left:0;
+        right:0;
+        margin: auto;
+        @include flex-center();
+    }
+}
