@@ -46,3 +46,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
+#ignore folders
+.idea/
+node_modules/
