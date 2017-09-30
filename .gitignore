@@ -45,7 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-
+.idea/workspace.xml
 #ignore
 .idea/
 node_modules/
