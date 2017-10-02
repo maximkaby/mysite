@@ -39,6 +39,7 @@ gulp.task('libs-css', function() {
     return gulp.src([
             'node_modules/swiper/dist/css/swiper.css',
             'node_modules/bootstrap/dist/css/bootstrap.css',
+            'node_modules/materialize-css/dist/css/materialize.css',
         ])
     .pipe(concat('libs.min.css'))
     .pipe(gulp.dest('app/css'));

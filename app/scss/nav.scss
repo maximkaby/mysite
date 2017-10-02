@@ -8,14 +8,13 @@
   transition: opacity .5s;
 }
 
-.nav{
+.navcont{
 
   display: flex;
   justify-content: space-between;
 
   padding-top: 22px;
   padding-bottom: 22px;
-
   z-index: 12;
   font-family:'Roboto', sans-serif;
   font-weight: 500;
