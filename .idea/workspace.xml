@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47a10c0c-5900-4b49-9d6d-2f98222393f6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/bundle.min.css" afterPath="$PROJECT_DIR$/app/bundle.min.css" />
-    </list>
+    <list default="true" id="001d4c1b-7d5c-4c91-b454-9d58d58c22db" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,8 +19,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="272">
-                  <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+                <state relative-caret-position="306">
+                  <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
                   <folding />
                 </state>
               </provider>
@@ -46,7 +44,7 @@
             <entry file="file://$PROJECT_DIR$/app/scss/howwedo.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="432">
-                  <caret line="72" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="1" />
+                  <caret line="72" column="1" lean-forward="false" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -58,10 +56,10 @@
                 <state relative-caret-position="0">
                   <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
                   <folding>
-                    <marker date="1506965548826" expanded="true" signature="73:987" ph="{...}" />
-                    <marker date="1506965548826" expanded="true" signature="288:360" ph="{...}" />
-                    <marker date="1506965548826" expanded="true" signature="969:979" ph="{...}" />
-                    <marker date="1506965548826" expanded="true" signature="969:985" ph="{...}" />
+                    <marker date="1506965757753" expanded="true" signature="73:1079" ph="{...}" />
+                    <marker date="1506965757753" expanded="true" signature="288:360" ph="{...}" />
+                    <marker date="1506965757753" expanded="true" signature="1061:1071" ph="{...}" />
+                    <marker date="1506965757753" expanded="true" signature="1061:1077" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -135,7 +133,7 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="91" />
     <option name="y" value="2" />
     <option name="width" value="1400" />
@@ -234,10 +232,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42811000" />
+    <option name="totallyTimeSpent" value="42812000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -337,10 +335,10 @@
         <state relative-caret-position="68">
           <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           <folding>
-            <marker date="1506965548826" expanded="true" signature="73:987" ph="{...}" />
-            <marker date="1506965548826" expanded="true" signature="288:360" ph="{...}" />
-            <marker date="1506965548826" expanded="true" signature="969:979" ph="{...}" />
-            <marker date="1506965548826" expanded="true" signature="969:985" ph="{...}" />
+            <marker date="1506965757753" expanded="true" signature="73:1079" ph="{...}" />
+            <marker date="1506965757753" expanded="true" signature="288:360" ph="{...}" />
+            <marker date="1506965757753" expanded="true" signature="1061:1071" ph="{...}" />
+            <marker date="1506965757753" expanded="true" signature="1061:1077" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -349,7 +347,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -599,7 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,10 +619,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
-            <marker date="1506965548826" expanded="true" signature="73:987" ph="{...}" />
-            <marker date="1506965548826" expanded="true" signature="288:360" ph="{...}" />
-            <marker date="1506965548826" expanded="true" signature="969:979" ph="{...}" />
-            <marker date="1506965548826" expanded="true" signature="969:985" ph="{...}" />
+            <marker date="1506965757753" expanded="true" signature="73:1079" ph="{...}" />
+            <marker date="1506965757753" expanded="true" signature="288:360" ph="{...}" />
+            <marker date="1506965757753" expanded="true" signature="1061:1071" ph="{...}" />
+            <marker date="1506965757753" expanded="true" signature="1061:1077" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -661,8 +657,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="306">
+          <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -678,7 +674,7 @@
     <entry file="file://$PROJECT_DIR$/app/scss/howwedo.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="72" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="1" />
+          <caret line="72" column="1" lean-forward="false" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
           <folding />
         </state>
       </provider>
