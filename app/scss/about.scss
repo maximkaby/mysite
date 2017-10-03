@@ -2,5 +2,53 @@
 @import 'partials/_mixins.scss';
 
 .about{
-    padding-bottom: 1000px;
+
+    padding-top: 40px;
+
+    &__title{
+        font-size: 60px;
+        text-align: center;
+    }
+    &__subtitle{
+        font-size: 13px;
+        font-weight: 300;
+        text-align: center;
+    }
+    &__blocks{
+        margin-top: 50px;
+        justify-content: space-between;
+        @include media-breakpoint-down($lg){
+            justify-content: center;
+        }
+    }
+    &__block{
+
+
+        @include flex-center;
+        padding-top:60px;
+        padding-bottom:60px;
+        padding-left: 0;
+        padding-right:0;
+        max-width: 31%;
+        text-align: center;
+
+        @include media-breakpoint-down($lg){
+            max-width: 95%;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+
+        & .block__icon{
+            margin-bottom: 20px;
+        }
+        & .block__title{
+            margin-bottom: 30px;
+            line-height: 30px;
+            font-size: 30px;
+            font-weight: bold;
+        }
+        & .block__subtitle{
+        }
+    }
 }

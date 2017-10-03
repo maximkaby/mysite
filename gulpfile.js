@@ -39,6 +39,7 @@ gulp.task('libs-css', function() {
     return gulp.src([
             'node_modules/swiper/dist/css/swiper.css',
             'node_modules/bootstrap/dist/css/bootstrap.css',
+            'app/css/materialize.css',
         ])
     .pipe(concat('libs.min.css'))
     .pipe(gulp.dest('app/css'));
@@ -50,6 +51,7 @@ gulp.task('scripts', function() {
             'node_modules/swiper/dist/js/swiper.js',
             'node_modules/popper.js/dist/umd/popper.js',
             'node_modules/bootstrap/dist/js/bootstrap.min.js',
+            'node_modules/materialize-css/dist/js/materialize.js'
         ])
         .pipe(concat('libs.min.js'))
         // .pipe(uglify())
