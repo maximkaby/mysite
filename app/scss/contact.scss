@@ -2,8 +2,8 @@
 @import 'partials/_mixins.scss';
 
 .contact{
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 60px;
+    padding-bottom: 80px;
     &__cont{
         @include media-breakpoint-down($lg){
             margin-left: 15px;
@@ -25,6 +25,8 @@
     &__input{
         padding-left: 0px;
         padding-right: 0;
-
+        & > .btn{
+            margin-top: 20px;
+        }
     }
 }

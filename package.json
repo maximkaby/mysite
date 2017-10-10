@@ -21,6 +21,7 @@
     "gulp-sourcemaps": "^2.4.1",
     "gulp-uglifyjs": "^0.6.2",
     "jquery": "^3.2.1",
+    "parallax-js": "^3.1.0",
     "popper.js": "^1.12.3",
     "swiper": "^3.4.2"
   }

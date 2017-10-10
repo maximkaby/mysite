@@ -51,7 +51,8 @@ gulp.task('scripts', function() {
             'node_modules/swiper/dist/js/swiper.js',
             'node_modules/popper.js/dist/umd/popper.js',
             'node_modules/bootstrap/dist/js/bootstrap.min.js',
-            'node_modules/materialize-css/dist/js/materialize.js'
+            'node_modules/materialize-css/dist/js/materialize.js',
+            'node_modules/parallax-js/dist/parallax.js'
         ])
         .pipe(concat('libs.min.js'))
         // .pipe(uglify())

@@ -8,15 +8,19 @@
         });
 
 $(function () {
-    $(window).scroll(function () {
-        var self = $(this);
-        console.log(self.scrollTop());
-        console.log(window.innerHeight);
-        if(self.scrollTop() > window.innerHeight -500){
-            $('.nav-cont').css('opacity', 1);
-        }else{
-            $('.nav-cont').css('opacity', 0);
-        }
+    // $(window).scroll(function () {
+    //     var self = $(this);
+    //     console.log(self.scrollTop());
+    //     console.log(window.innerHeight);
+    //     if(self.scrollTop() > window.innerHeight -500){
+    //         $('.nav-cont').css('opacity', 1);
+    //     }else{
+    //         $('.nav-cont').css('opacity', 0);
+    //     }
+    //
+    // });
 
-    });
+    var scene = document.getElementById('scene');
+    var parallaxInstance = new Parallax(scene);
+    console.log('parallax');
 });
